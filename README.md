@@ -68,7 +68,7 @@
 
 ## How to Run
 1. **Clone the repo:** 
-- git clone https://github.com/your-username/churn-prediction.git
+- git clone https://github.com/dijalaanita/Customer_Churn_Prediction.git
 - cd churn-prediction
 
 2. **Install dependencies:**
